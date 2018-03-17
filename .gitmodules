@@ -1,3 +1,4 @@
 [submodule "src/sdl_wrapper"]
 	path = src/sdl_wrapper
-	url = git://github.com/davidgomes/sdl_wrapper.git
+	url = https://github.com/pierremonteux/sdl_wrapper.git
+
